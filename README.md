@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/icon_with_logo.png" alt="logo">
+  <img src="assets/images/icon_with_logo.png" alt="logo" width="400px">
 </p>
 
 # Goju-man
