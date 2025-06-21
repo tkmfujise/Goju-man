@@ -1,4 +1,6 @@
-<img src="assets/images/icon_with_logo.png" alt="logo">
+<p align="center">
+  <img src="assets/images/icon_with_logo.png" alt="logo">
+</p>
 
 # Goju-man
 
