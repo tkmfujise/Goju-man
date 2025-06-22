@@ -6,8 +6,7 @@ using GojuMan.BooksController
 Genie.config.websockets_server = true
 
 route("/") do
-  # serve_static_file("welcome.html")
-  Assets.channels_support()
+  serve_static_file("welcome.html")
 end
 
 
