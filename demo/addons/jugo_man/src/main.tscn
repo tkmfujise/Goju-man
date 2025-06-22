@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bi7rk36fq66ms"]
+
+[ext_resource type="Script" uid="uid://bqoapnrbdfl8s" path="res://addons/jugo_man/src/main.gd" id="1_q41sf"]
+
+[node name="Main" type="Node"]
+script = ExtResource("1_q41sf")

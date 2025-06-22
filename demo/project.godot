@@ -14,3 +14,7 @@ config/name="Demo"
 run/main_scene="uid://b3yc78dfnwq8y"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/jugo_man/plugin.cfg")

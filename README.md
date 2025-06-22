@@ -11,3 +11,14 @@ Godot ⇆ Julia
 * 未定
 
 
+## Usage
+
+### server
+```
+$ bin/server
+```
+
+### repl
+```
+$ bin/repl
+```
